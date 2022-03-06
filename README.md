@@ -3,7 +3,7 @@
 Google:
 https://edgarfalco.github.io/Flex_Grid/Actividad1/
 
-![imagen](https://user-images.githubusercontent.com/56967437/156927570-f8c13334-5064-4cb4-9f47-1ceedfc758d5.png)
+![imagen](https://user-images.githubusercontent.com/56967437/156927624-b666dfc5-d4b8-42f6-848f-3b562dd0ecf0.png)
 
 
 Netflix:
